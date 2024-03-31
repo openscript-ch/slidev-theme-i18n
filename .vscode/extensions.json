@@ -1,3 +1,6 @@
 {
-  "recommendations": ["antfu.slidev"]
+  "recommendations": [
+    "antfu.slidev",
+    "inlang.vs-code-extension"
+  ]
 }
